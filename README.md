@@ -62,11 +62,11 @@ Os subprodutos tais como: scripts, imagens e vídeos resultados dos testes execu
 
 
 [Registrar mensagem](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/04327777e2b591962e86ffdf1a75e2039b270e9b/Videos/T1.webm)</br>
-[Registrar e-mail invalido](Videos/T2.mp4)</br>
-[Registra, em branco, inválido](Videos/T3.mp4)</br>
-[Registro, poucos caracteres, inválido](Videos/T4.mp4)</br>
-[Registro, muitos caracteres, inválido](Videos/T5.mp4)</br>
-[Clicar: Telefone (Tornando obrigatorio)](Videos/T6.mp4)
+[Registrar e-mail invalido]([Videos/T2.mp4](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/c2daaa55196c4701aabe042cf0a135415e8aa667/Videos/T2.webm))</br>
+[Registra, em branco, inválido](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/c2daaa55196c4701aabe042cf0a135415e8aa667/Videos/T3.webm)</br>
+[Registro, poucos caracteres, inválido](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/c2daaa55196c4701aabe042cf0a135415e8aa667/Videos/T4.webm)</br>
+[Registro, muitos caracteres, inválido](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/c2daaa55196c4701aabe042cf0a135415e8aa667/Videos/T5.webm)</br>
+[Clicar: Telefone (Tornando obrigatorio)](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/c2daaa55196c4701aabe042cf0a135415e8aa667/Videos/T6.webm)
 
 ## Cobertura
 
