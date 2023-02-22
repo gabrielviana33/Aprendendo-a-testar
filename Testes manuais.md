@@ -58,7 +58,7 @@ Os subprodutos tais como: scripts, imagens e vídeos resultados dos testes execu
 ### Algumas gravações dos testes Manuais realizados:
 
 
-[registro com poucos caracteres nos campos de texto]()
+[Gravações](https://github.com/gabrielviana33/Aprendendo-a-testar/tree/main/Videos)
 
 
 [registro com campos em branco!]()
