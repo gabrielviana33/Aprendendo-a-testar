@@ -61,8 +61,12 @@ Os subprodutos tais como: scripts, imagens e vídeos resultados dos testes execu
 [Gravações](https://github.com/gabrielviana33/Aprendendo-a-testar/tree/main/Videos)
 
 
-[registro com campos em branco!]()
-
+[Registrar mensagem](Videos/T1.mp4)
+[Registrar e-mail invalido](Videos/T2.mp4)
+[Registra, em branco, inválido](Videos/T3.mp4)
+[Registro, poucos caracteres, inválido](Videos/T4.mp4)
+[Registro, muitos caracteres, inválido](Videos/T5.mp4)
+[Clicar: Telefone (Tornando obrigatorio)](Videos/T6.mp4)
 
 ## Cobertura
 
