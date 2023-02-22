@@ -61,7 +61,7 @@ Os subprodutos tais como: scripts, imagens e vídeos resultados dos testes execu
 [Gravações](https://github.com/gabrielviana33/Aprendendo-a-testar/tree/main/Videos)
 
 
-[Registrar mensagem](Videos/T1.mp4)</br>
+[Registrar mensagem](https://github.com/gabrielviana33/Aprendendo-a-testar/blob/7b9a48e5573d0284e27c73bf55c7cf1940692f59/Videos/T1.mp4)</br>
 [Registrar e-mail invalido](Videos/T2.mp4)</br>
 [Registra, em branco, inválido](Videos/T3.mp4)</br>
 [Registro, poucos caracteres, inválido](Videos/T4.mp4)</br>
